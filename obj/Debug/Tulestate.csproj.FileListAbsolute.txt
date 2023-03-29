@@ -1,0 +1,10 @@
+c:\users\javier\documents\visual studio 2013\Projects\Tulestate\Tulestate\bin\Debug\Tulestate.exe.config
+c:\users\javier\documents\visual studio 2013\Projects\Tulestate\Tulestate\bin\Debug\Tulestate.exe
+c:\users\javier\documents\visual studio 2013\Projects\Tulestate\Tulestate\bin\Debug\Tulestate.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Tulestate\Tulestate\obj\Debug\Tulestate.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2013\Projects\Tulestate\Tulestate\obj\Debug\Tulestate.Form1.resources
+c:\users\javier\documents\visual studio 2013\Projects\Tulestate\Tulestate\obj\Debug\Tulestate.Properties.Resources.resources
+c:\users\javier\documents\visual studio 2013\Projects\Tulestate\Tulestate\obj\Debug\Tulestate.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2013\Projects\Tulestate\Tulestate\obj\Debug\Tulestate.exe
+c:\users\javier\documents\visual studio 2013\Projects\Tulestate\Tulestate\obj\Debug\Tulestate.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Tulestate\Tulestate\obj\Debug\Tulestate.Form2.resources
